@@ -10,3 +10,4 @@ jobs:
     - uses: aop-sanity-test/aop-test-repo@v1
     - uses: aop-sanity-test/aop-test-repo@1
     - uses: aop-sanity-test/aop-test-repo@2.0.0
+    - uses: aop-sanity-test/aop-test-repo@2.0.1
