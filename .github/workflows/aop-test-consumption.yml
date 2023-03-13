@@ -7,3 +7,4 @@ jobs:
     steps:
     - uses: aop-sanity-test/aop-test-repo@0.1.0
     - uses: aop-sanity-test/aop-test-repo@0.1.2
+    - uses: aop-sanity-test/aop-test-repo@0.1.3
